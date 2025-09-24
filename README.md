@@ -2,6 +2,8 @@
 
 Your all-in-one QR code toolkit for Android. QRCraft provides a seamless experience for scanning, creating, and managing QR codes with a simple and intuitive interface.
 
+https://github.com/user-attachments/assets/643f52ab-f498-4601-b882-860fe00d5b0d
+
 ## ✨ Features
 
 ### Scanning
@@ -30,6 +32,10 @@ Your all-in-one QR code toolkit for Android. QRCraft provides a seamless experie
 ## 📸 Screenshots
 
 ### Scan
+
+<img width="250" alt="scan" src="https://github.com/user-attachments/assets/d9d6d8e5-9d93-41de-9f41-da875d9a22b6" />
+<img width="250" alt="upload" src="https://github.com/user-attachments/assets/d8f5a743-6941-4056-a42c-4e4c636593d5" />
+<img width="250" alt="result" src="https://github.com/user-attachments/assets/fdfc0544-0ef0-4198-96f4-e28dd44a875d" />
 
 ### Create
 
