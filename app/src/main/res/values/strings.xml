@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QRCraft</string>
+    <string name="camera_required">Camera Required</string>
+    <string name="app_cannot_function">This app cannot function without camera access. To scan QR codes, please grant permission.</string>
+    <string name="close_app">Close App</string>
+    <string name="grant_access">Grant Access</string>
+    <string name="point_camera">Point your camera at a QR code</string>
+    <string name="loading">Loading...</string>
+    <string name="text">Text</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="link">Link</string>
+    <string name="contact">Contact</string>
+    <string name="geolocation">Geolocation</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="scan_history">Scan History</string>
+    <string name="contact_name">Name</string>
+    <string name="contact_email">Email</string>
+    <string name="contact_phone">Phone Number</string>
+    <string name="geolocation_lat">Latitude</string>
+    <string name="geolocation_long">Longitude</string>
+    <string name="wifi_encryption">Encryption Type</string>
+    <string name="wifi_name">SSID</string>
+    <string name="wifi_password">Password</string>
+    <string name="generate_qr">Generate QR-Code</string>
+    <string name="scan_result">Scan Result</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="preview">Preview</string>
+    <string name="qr_too_large">QR Too Large. Save to view.</string>
+    <string name="save">Save</string>
+    <string name="save_to_downloads">Download QR Code</string>
+    <string name="scanned">Scanned</string>
+    <string name="generated">Generated</string>
+</resources>
