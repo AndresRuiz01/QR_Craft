@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/643f52ab-f498-4601-b882-860fe00d5b0d
 
 This app is currently in the process of being added to the Google Play Store. Reach out if you want be added as a tester!
 
+In the meantime, download the app directly from the [releases](https://github.com/AndresRuiz01/QR_Craft/releases/tag/0.0.1-alpha) tab!
+
 ## 🛠️ Built With
 
 - [Kotlin](https://kotlinlang.org/): The official and modern programming language for Android development.
